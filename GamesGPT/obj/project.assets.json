@@ -1,0 +1,74 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net6.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\dcruz\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\dcruz\\Desktop\\Github\\ProyectoBecarios\\GamesGPT\\GamesGPT\\GamesGPT.csproj",
+      "projectName": "GamesGPT",
+      "projectPath": "C:\\Users\\dcruz\\Desktop\\Github\\ProyectoBecarios\\GamesGPT\\GamesGPT\\GamesGPT.csproj",
+      "packagesPath": "C:\\Users\\dcruz\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dcruz\\Desktop\\Github\\ProyectoBecarios\\GamesGPT\\GamesGPT\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\dcruz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\dcruz\\Desktop\\SIVI\\CCB.SIVI.Comunes\\CCB.SIVI.ComunesCore31\\bin\\Debug": {},
+        "C:\\Users\\dcruz\\Desktop\\SIVI\\NuGet": {},
+        "https://aresccb.pkgs.visualstudio.com/_packaging/NuggetFeedCecoban%40Local/nuget/v3/index.json": {},
+        "https://pkgs.dev.azure.com/AresCCB/_packaging/NuggetFeedCecoban%40Local/nuget/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
