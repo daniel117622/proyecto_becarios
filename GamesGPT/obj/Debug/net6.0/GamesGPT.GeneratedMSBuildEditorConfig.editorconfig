@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\dcruz\Desktop\Github\ProyectoBecarios\GamesGPT\GamesGPT
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/dcruz/Desktop/Github/ProyectoBecarios/GamesGPT/GamesGPT/Views/Carlos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FybG9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/dcruz/Desktop/Github/ProyectoBecarios/GamesGPT/GamesGPT/Views/HelloWorld/Welcome.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVsbG9Xb3JsZFxXZWxjb21lLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
